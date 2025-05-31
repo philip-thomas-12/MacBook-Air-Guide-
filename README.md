@@ -15,3 +15,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 ## 🚀 Quick Start
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Clone this repo:
+
+git clone https://github.com/your-username/macbook-air-setup.git
