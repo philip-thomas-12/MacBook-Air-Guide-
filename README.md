@@ -18,4 +18,5 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 
 Clone this repo:
 
-git clone https://github.com/your-username/macbook-air-setup.git
+git clone this
+
