@@ -9,7 +9,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 - [Terminal Setup](./terminal-setup.md)
 - [macOS System Settings](./mac-settings.md)
 - [Useful Resources](./resources.md)
-
+- [how to crop images in preview](./crop-in-preview.md)
 > Updated for macOS Sonoma and Apple Silicon (M1/M2/M3).
 
 ## 🚀 Quick Start
