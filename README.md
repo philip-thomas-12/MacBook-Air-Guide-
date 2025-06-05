@@ -12,11 +12,4 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 - [how to crop images in preview](./crop-in-preview.md)
 > Updated for macOS Sonoma and Apple Silicon (M1/M2/M3).
 
-## 🚀 Quick Start
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-Clone this repo:
-
-git clone this
 
