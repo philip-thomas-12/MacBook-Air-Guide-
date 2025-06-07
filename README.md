@@ -4,6 +4,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 
 ## 🧰 Contents
 - [System Checklist](./setup-checklist.md)
+- how to do forse quit(./Force Quit)
 - [Homebrew Installation](./install-homebrew.sh)
 - [Development Tools](./dev-tools.md)
 - [Terminal Setup](./terminal-setup.md)
@@ -12,6 +13,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 - [how to crop images in preview](./crop-in-preview.md)
 - [KEY BOARD SHORTCUTS](./shortcuts)
 - [how to change the  icon of folders](./change_icon_of_folders)
+- 
 > Updated for macOS Sonoma and Apple Silicon (M1/M2/M3).
 
 
