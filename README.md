@@ -4,7 +4,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 
 ## 🧰 Contents
 - [System Checklist](./setup-checklist.md)
-- how to do forse quit(./Force Quit)
+- [how to do forse quit](./Force Quit)
 - [Homebrew Installation](./install-homebrew.sh)
 - [Development Tools](./dev-tools.md)
 - [Terminal Setup](./terminal-setup.md)
