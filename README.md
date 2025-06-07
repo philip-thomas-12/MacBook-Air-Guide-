@@ -4,7 +4,6 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 
 ## 🧰 Contents
 - [System Checklist](./setup-checklist.md)
-- [Force Quit](./force Quit)
 - [Development Tools](./dev-tools.md)
 - [Terminal Setup](./terminal-setup.md)
 - [macOS System Settings](./mac-settings.md)
