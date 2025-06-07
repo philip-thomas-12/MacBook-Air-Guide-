@@ -11,7 +11,7 @@ This repository contains a step-by-step guide to setting up a MacBook Air for de
 - [Useful Resources](./resources.md)
 - [how to crop images in preview](./crop-in-preview.md)
 - [KEY BOARD SHORTCUTS](./shortcuts)
-- [how to change_icon_of_folders](./change_icon_of_folders)
+- [how to change the  icon of folders](./change_icon_of_folders)
 > Updated for macOS Sonoma and Apple Silicon (M1/M2/M3).
 
 
