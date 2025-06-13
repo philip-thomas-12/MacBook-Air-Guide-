@@ -4,6 +4,7 @@ Follow these steps to easily crop pictures using the built-in **Preview** app on
 
 ---
 
+
 ## ✂️ Steps to Crop an Image
 
 1. **Open the Image in Preview**
