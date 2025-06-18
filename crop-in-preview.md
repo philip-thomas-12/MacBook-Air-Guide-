@@ -1,6 +1,6 @@
 # 🖼️ How to Crop Images in Preview on MacBook Air
 
-#Follow these steps to easily crop pictures using the built-in **Preview** app on macOS:
+# Follow these steps to easily crop pictures using the built-in **Preview** app on macOS:
 
 ---
 
